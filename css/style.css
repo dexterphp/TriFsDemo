@@ -1,0 +1,28 @@
+*{
+	font-family: 'Maven Pro', sans-serif;
+}
+
+body{
+	background-image: url('../img/bg.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;	
+	
+}
+
+.container{
+	width:100%;
+	text-align:center;
+	margin-top: 20%;
+}
+
+input{
+	padding:10px;
+	font-weight: bold;
+	font-size: 44px;
+	-webkit-border-radius: 5px; 
+    -moz-border-radius: 5px; 
+    border-radius: 5px;	
+    border: 1px solid #cccccc;
+    color: grey;
+    text-align: center;
+}
